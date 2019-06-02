@@ -1,0 +1,2 @@
+# platzi
+Git de platzi
