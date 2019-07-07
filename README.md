@@ -1,2 +1,2 @@
-# platzi
-Git de platzi
+# Git
+Curso de Git
